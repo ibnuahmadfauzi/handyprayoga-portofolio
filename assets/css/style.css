@@ -14,3 +14,14 @@ body {
   font-family: "Atma", system-ui;
   font-size: 30px;
 }
+
+.btn-explore {
+  background-color: #f44b12;
+  color: #ffffff;
+  border-radius: 0;
+  box-shadow: 3px 3px #ffffff;
+}
+.btn-explore:hover {
+  background-color: #a02e08;
+  box-shadow: 0px 0px #ffffff;
+}
