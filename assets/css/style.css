@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Atma:wght@300;400;500;600;700&family=Rum+Raisin&display=swap");
+
+body {
+  background-color: #131313;
+  color: #ffffff;
+}
+
+.homepage h1 {
+  font-family: "Rum Raisin", sans-serif;
+  font-size: 70px;
+  font-weight: 200;
+}
+.homepage h2 {
+  font-family: "Atma", system-ui;
+  font-size: 30px;
+}
